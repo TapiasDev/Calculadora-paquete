@@ -1,5 +1,5 @@
 {
-  "name": "@TapiasDev/calculadora",
+  "name": "@tapiasdev/calculadora",
   "version": "1.0.0",
   "description": "POC de calculadora con TypeScript publicada en GitHub Packages",
   "type": "module",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TapiasDev/Calculadora-paquete.git"
+    "url": "https://github.com/tapiasdev/Calculadora-paquete.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
